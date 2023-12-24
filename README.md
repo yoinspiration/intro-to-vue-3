@@ -1,6 +1,8 @@
-# intro-to-vue-3
+# Intro to Vue 3
 
 This template should help get you started developing with Vue 3 in Vite.
+
+程序的入口是 [./src/main.js](src/main.js)
 
 ## Recommended IDE Setup
 
